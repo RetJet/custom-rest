@@ -1,4 +1,4 @@
-## Custom integraration
+## Custom integration
 
 You need prepare two REST endpoints methods with Bearer authorization:
 
