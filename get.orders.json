@@ -1,0 +1,58 @@
+[
+   {
+      "orderId":"000150000",
+      "orderIdRef":"FV/01/05/2024",
+      "orderSource":"shop",
+      "statusId":"1",
+      "createdAt":1722165381,
+      "lastUpdateDate":1722165441,
+      "timeOffset":0,
+      "currency":"PLN",
+      "shippingCost":12.00,
+      "customer":{
+         "name":"Jan",
+         "lastName":"Kowalski",
+         "company":"",
+         "email":"test@wp.pl",
+         "phone":"+48600600600",
+         "taxId":"",
+         "street":"Testowa 45",
+         "city":"Poznań",
+         "postCode":"60-453",
+         "state":"Wielkopolskie",
+         "country":"PL"
+      },
+      "products":[
+         {
+            "productId":"32872",
+            "name":"FJALLRAVEN Wosk w kostce GREENLAND WAX",
+            "sku":"7392158015450",
+            "ean":"7392158015450",
+            "priceWtTax":39.99,
+            "qty":2,
+            "imageUrl":"https:\/\/shop.com\/media\/catalog\/product\/3\/2\/32872-99990-fjallraven-wosk-w-kostce-greenland-wax.jpg",
+            "refunded":0,            
+         },
+         {
+            "productId":"107429",
+            "name":"FJALLRAVEN Czapka z daszkiem CLASSIC BADGE CAP Laurel Green-S\/M",
+            "sku":"7323450849825",
+            "ean":"7323450849825",
+            "priceWtTax":167.99,
+            "qty":1,
+            "imageUrl":"https:\/\/shop.com\/media\/catalog\/product\/c\/l\/classic_badge_cap_86979-625_a_main_fjr.png",
+            "refunded":0,
+         },
+         {
+            "productId":"107429",
+            "name":"FJALLRAVEN Czapka z daszkiem CLASSIC BADGE CAP Laurel Green-L\/XL",
+            "sku":"7323450849788",
+            "ean":"7323450849788",
+            "priceWtTax":167.99,
+            "qty":1,
+            "imageUrl":"https:\/\/shop.com\/media\/catalog\/product\/c\/l\/classic_badge_cap_86979-625_a_main_fjr.png",
+            "refunded":0,          
+         },
+      ]
+   }, /* More orders */
+]
