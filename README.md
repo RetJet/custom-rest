@@ -13,9 +13,10 @@ Note! If your platform already has a built-in authorization system other than AP
 ```
 curl -X POST 'https://your-shop.com/api/get.orders.json' \
 --header 'Authorization: ••••••' \
---data-urlencode 'name=email' \
---data-urlencode 'name=orderNo'
+--data-urlencode 'email=customer@email.ltd' \
+--data-urlencode 'orderNo=order-ref-id'
 ```
+
 
 The JSON response is specified in the get.orders.json file.
 
