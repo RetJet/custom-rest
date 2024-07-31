@@ -18,7 +18,7 @@ curl -X POST 'https://your-shop.com/api/get.orders.json' \
 ```
 
 
-The JSON response is specified in the get.orders.json file.
+The JSON response is specified in the [get.orders.json](https://github.com/RetJet/custom-rest/blob/main/get.orders.json) file.
 
 
 2. Full list of orders statuses
@@ -27,4 +27,4 @@ curl -X GET 'https://your-shop.com/api/get.statuses.json' \
 --header 'Authorization: ••••••'
 ```
 
-The JSON response is specified in the get.statuses.json file.
+The JSON response is specified in the [get.statuses.json](https://github.com/RetJet/custom-rest/blob/main/get.statuses.json) file.
